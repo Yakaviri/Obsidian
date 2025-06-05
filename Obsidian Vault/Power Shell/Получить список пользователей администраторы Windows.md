@@ -1,0 +1,1 @@
+Get-LocalGroupMember -Group "Администраторы" | Select-Object Name | Export-Csv -Path "D:\Руководители.csv" -Encoding "Unicode"

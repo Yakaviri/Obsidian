@@ -1,0 +1,1 @@
+Date.MonthName(Excel.CurrentWorkbook(){[Name="ДатаТабеля"]}[Content]{0}[Column1])
