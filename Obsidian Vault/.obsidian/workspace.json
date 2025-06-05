@@ -4,84 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "67661813dbe1520b",
+        "id": "38cf41acda3a9fa1",
         "type": "tabs",
         "children": [
           {
-            "id": "b10288ad00b0c388",
+            "id": "fe9f116c2959be3a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Куракин.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Куракин"
-            }
-          },
-          {
-            "id": "8abcf5118cdf3da1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1C/Функции БСП/Строки и представления.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Строки и представления"
-            }
-          },
-          {
-            "id": "33d7ceaa866b4290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1C/Функции БСП/Запросы и данные из базы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Запросы и данные из базы"
-            }
-          },
-          {
-            "id": "f6b3fe613eb4b4ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1C/Функции БСП/Массивы структуры и таблицы значений.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Массивы структуры и таблицы значений"
-            }
-          },
-          {
-            "id": "85a7569b2625fc8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1C/Функции БСП/XML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "XML"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,27 +155,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "85a7569b2625fc8a",
+  "active": "fe9f116c2959be3a",
   "lastOpenFiles": [
-    "1C/Функции БСП/JSON.md",
+    "Excel/EXCEL макрос для поиска скрытых имен.md",
     "1C/Функции БСП/Строки и представления.md",
-    "1C/Функции БСП/Общего назначения.md",
-    "1C/Функции БСП/Описания типов.md",
-    "1C/Функции БСП/Массивы структуры и таблицы значений.md",
     "1C/Функции БСП/Запросы и данные из базы.md",
+    "1C/Функции БСП/Массивы структуры и таблицы значений.md",
     "1C/Функции БСП/XML.md",
+    "1C/Функции БСП/JSON.md",
+    "1C/Функции БСП/Описания типов.md",
+    "1C/Функции БСП/Общего назначения.md",
+    "PQ/RegExp для PQ.md",
+    "Куракин.canvas",
+    "PQ/Название месяца из имени ячейки PQ.md",
+    "Power Shell/Список папок в csv.md",
+    "Power Shell/Список групп и пользователей с доступом к папке.md",
+    "Power Shell/Получить список пользователей администраторы Windows.md",
     "Без названия",
     "1C/Функция ЯвляетсяЧислом в 1С.md",
     "1C/Функции БСП.md",
     "1C/Функции БСП",
-    "Куракин.canvas",
-    "Excel/EXCEL макрос для поиска скрытых имен.md",
-    "Power Shell/Получить список пользователей администраторы Windows.md",
-    "PQ/RegExp для PQ.md",
-    "Power Shell/Список групп и пользователей с доступом к папке.md",
     "Excel/EXCEL.md",
-    "Power Shell/Список папок в csv.md",
-    "PQ/Название месяца из имени ячейки PQ.md",
     "Untitled",
     "1C",
     "Excel",
