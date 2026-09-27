@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0718c5a34c91ba6",
+            "id": "68e114c159250160",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/GIT/Команды git для 1C/Локальный репозиторий.md",
+                "file": "Obsidian Vault/GIT/Команды git для 1C/Инициализация и развертываение репозитория.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Локальный репозиторий"
+              "title": "Инициализация и развертываение репозитория"
             }
           }
         ]
@@ -79,11 +79,12 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "right": {
     "id": "10aabca02a319d3f",
@@ -188,10 +189,26 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "e0718c5a34c91ba6",
+  "active": "68e114c159250160",
   "lastOpenFiles": [
-    "Obsidian Vault/GIT/Команды git для 1C/Добавить в индекс Git.md",
+    "Obsidian Vault/GIT/Команды git для 1C/Настройка ssh для github.md",
     "Obsidian Vault/GIT/Команды git для 1C/Локальный репозиторий.md",
+    "Obsidian Vault/GIT/Команды git для 1C/Добавить в индекс Git.md",
+    "Obsidian Vault/GIT/Команды git для 1C/Инициализация и развертываение репозитория.md",
+    "Obsidian Vault/EDT/EDT CLI/1CEDTCLI.md",
+    "Obsidian Vault/EDT/EDT CLI/Без названия 1.md",
+    "Obsidian Vault/EDT/Git для EDT/1. Начальные настройки.md",
+    "Obsidian Vault/EDT/Git для EDT/2. Работа с коммитами.md",
+    "Obsidian Vault/Без названия.md",
+    "Obsidian Vault/Виды команд.md",
+    "Obsidian Vault/EDT/EDT CLI/Без названия 2.md",
+    "Obsidian Vault/EDT/EDT CLI",
+    "Obsidian Vault/EDT/Перспективы/Иерархия вызовов.md",
+    "Obsidian Vault/EDT/Git для EDT",
+    "Obsidian Vault/EDT/Перспективы",
+    "Obsidian Vault/EDT/Перспективы.md",
+    "EDT/Перспективы.md",
+    "Obsidian Vault/EDT",
     "Obsidian Vault/GIT/Команды GIT.md",
     "Obsidian Vault/GIT/Команды git для 1C"
   ]
