@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/GIT/Команды git для 1C/Инициализация и развертываение репозитория.md",
+                "file": "Obsidian Vault/GIT/Команды git для 1C/Настройка ssh для github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инициализация и развертываение репозитория"
+              "title": "Настройка ssh для github"
             }
           }
         ]
@@ -79,8 +79,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,10 +190,10 @@
   },
   "active": "68e114c159250160",
   "lastOpenFiles": [
+    "Obsidian Vault/GIT/Команды git для 1C/Инициализация и развертываение репозитория.md",
     "Obsidian Vault/GIT/Команды git для 1C/Настройка ssh для github.md",
     "Obsidian Vault/GIT/Команды git для 1C/Локальный репозиторий.md",
     "Obsidian Vault/GIT/Команды git для 1C/Добавить в индекс Git.md",
-    "Obsidian Vault/GIT/Команды git для 1C/Инициализация и развертываение репозитория.md",
     "Obsidian Vault/EDT/EDT CLI/1CEDTCLI.md",
     "Obsidian Vault/EDT/EDT CLI/Без названия 1.md",
     "Obsidian Vault/EDT/Git для EDT/1. Начальные настройки.md",
