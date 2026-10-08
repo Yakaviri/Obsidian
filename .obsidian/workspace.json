@@ -20,8 +20,26 @@
               "icon": "lucide-file",
               "title": "4. Анализ истории Git"
             }
+          },
+          {
+            "id": "a0045c9e5ca30f3e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Obsidian Vault/GIT/Команды git для 1C/Без названия.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Без названия"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,20 +206,21 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "b60663d0225376f7",
+  "active": "316d5f3e87d34034",
   "lastOpenFiles": [
-    "Obsidian Vault/GIT/Команды GIT.md",
-    "Obsidian Vault/GIT/Команды git для 1C/4. Анализ истории Git.md",
-    "Без названия",
     "Ресурсы для начала 1С программирования.md",
+    "Obsidian Vault/GIT/Команды git для 1C/Без названия.canvas",
+    "Obsidian Vault/GIT/Без названия.base",
+    "Obsidian Vault/GIT/Команды git для 1C/5. Отменить изменения если еще нет коммита.md",
+    "Obsidian Vault/GIT/Команды git для 1C/4. Анализ истории Git.md",
+    "Obsidian Vault/GIT/Команды GIT.md",
+    "Без названия",
     "Obsidian Vault/GIT/Команды git для 1C/0.1 Настройка ssh для github.md",
     "Obsidian Vault/GIT/Команды git для 1C/3. Слияние ветки в main.md",
     "Obsidian Vault/GIT/Команды git для 1C/2. Внесение изменений и коммит в новую ветку.md",
     "Obsidian Vault/GIT/Команды git для 1C/1. Создание новой ветки.md",
     "Obsidian Vault/GIT/Команды git для 1C/0.2 Инициализация и развертываение репозитория.md",
-    "Без названия.base",
     "2026-09-28.md",
-    "Без названия.canvas",
     "Obsidian Vault/GIT/Команды git для 1C/Локальный репозиторий.md",
     "Obsidian Vault/GIT/Команды git для 1C/Добавить в индекс Git.md",
     "Obsidian Vault/EDT/EDT CLI/1CEDTCLI.md",
